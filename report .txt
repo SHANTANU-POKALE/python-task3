@@ -1,0 +1,36 @@
+
+Testing Environment:
+I tested the website on my iPhone.
+
+UI/UX Bugs:
+1. Font Consistency:
+The writing looks different in various parts of the website. This might make it a bit confusing because it doesn't all look the same.
+
+2.Text Overflow:
+In the "About Us" part, on smaller screens, the words get cut off. This can make it hard to read everything.
+3.Navigation Bar Alignment:
+The menu items at the top are not lined up properly. They're a bit all over the place, and this might make it look messy.
+
+4.Inconsistent Icon Styling:
+Some pictures in the "Features" section look different from each other. Some are thicker, and some are thinner. It would be better if they all looked the same.
+
+5.Misaligned Buttons:
+On the "Contact Us" page, the "Submit" button doesn't line up well with where you type your information. This might confuse people.
+
+6.Lack of Responsiveness:
+Some parts of the website don't work well on smaller screens. This makes it a bit tough for people using phones or smaller devices.
+
+7.Color Contrast Issues:
+In the "Testimonials" section, the colors might be hard to see for some people. This could be a problem, especially for those who find it challenging to see certain colors.
+
+8.Unclear Call-to-Action:
+The buttons that ask you to do something on the "Services" page should stand out more. Right now, they might not catch people's attention easily.
+
+9.Missing Navigation Indicator:
+It's not clear which page you're on in the menu. There should be something showing which page is active to avoid confusion.
+
+10.Inconsistent Spacing:
+Some things are too close or too far from each other in the "Features" part. Making everything the same distance apart would make it look better.
+
+Conclusion:
+After checking everything, it's clear that there are things that could be better on LeapifyTalk. Fixing these issues will make the website more organized, easier to use, and nicer to look at, which will make people like me like it more and more.
